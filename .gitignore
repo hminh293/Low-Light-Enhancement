@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+<<<<<<< Updated upstream
+.venv/
+checkpoints/
+=======
+
+>>>>>>> Stashed changes
+checkpoint/
+
+.ipynb_checkpoints/
